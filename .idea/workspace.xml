@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b5c4a5-6283-4d74-a0b6-dd643d718d9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/main_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/shopping_cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/Dymka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/shopping_cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/shopping_cart.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +53,15 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Anna/PycharmProjects/Module18",
+    "last_opened_file_path": "C:/Users/Anna/PycharmProjects/Module18/UrbanDjango/task4",
     "run.code.analysis.last.selected.profile": "aDefault"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anna\PycharmProjects\Module18\UrbanDjango\task4" />
+      <recent name="C:\Users\Anna\PycharmProjects\Module18\UrbanDjango\templates\fourth_task" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anna\PycharmProjects\Module18\UrbanDjango\templates" />
     </key>

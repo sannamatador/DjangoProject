@@ -18,18 +18,19 @@ from django.contrib import admin
 from django.urls import path
 from django.views.generic import TemplateView
 from task2.views import index, index2
-from task3.views import main, shop, shopping_cart
+from task4.views import main, shop, shopping_cart
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     # # маршруты для task2
     # path('', index),
     # path('1/', index2),
-    
-    # маршруты для task3
-    path('', main),
-    path('1/', shop),
-    path('2/', shopping_cart)
+
+    # маршруты для task4
+
+    path('', main, name='main'),
+    path('1/', shop, name='shop'),
+    path('2/', shopping_cart, name='shopping_cart')
 
 ]
 # path('', TemplateView.as_view(template_name="class_template.html")),
