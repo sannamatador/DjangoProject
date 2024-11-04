@@ -25,6 +25,8 @@
         {% for adr, name in dictio.items %}
         <p><a href="{% url adr %}">{{name}}</a></p>
         {% endfor %}
+        <p><a href="{% url 'sign_up_by_html'%}">Регистрация html</a></p>
+        <a href="{% url 'sign_up_by_django'%}">Регистрация django</a>
 
     {% endblock %}
 
